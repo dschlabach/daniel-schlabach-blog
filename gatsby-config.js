@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title: `Lost in Translation`,
+    author: `Daniel Schlabach`,
+    description: `A blog about language learning, coding, and other thoughts.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `DMSchlabach`,
     },
   },
   plugins: [
@@ -58,7 +58,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        short_name: `DS`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
