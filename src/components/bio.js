@@ -38,8 +38,9 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>.{` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
+              My thoughts on language learning, coding, and life. Written by{" "}
+              <strong>{author}</strong>.{` `}
+              <a href={`https://twitter.com/${social.twitter}`} target="_blank">
                 Follow me on Twitter.
               </a>
             </p>

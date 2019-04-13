@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Speakeasy`,
+    title: `Daniel Schlabach`,
     author: `Daniel Schlabach`,
-    description: `A blog about language learning, coding, and other thoughts.`,
+    description: `A blog about language learning, coding, and other thoughts about life.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `DMSchlabach`,
@@ -50,14 +50,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: "UA - 138218274 - 1",
+        respectDNT: true,
       },
     },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Speakeasy`,
+        name: `Daniel Schlabach`,
         short_name: `DS`,
         start_url: `/`,
         background_color: `#ffffff`,
