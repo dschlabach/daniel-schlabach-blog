@@ -1,10 +1,22 @@
 import Typography from "typography"
 import Wordpress2016 from "typography-theme-wordpress-2016"
 
+import "./global.css"
+
 Wordpress2016.overrideThemeStyles = () => {
   return {
+    a: {
+      color: "var(--textLink)",
+    },
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
+    },
+    // These two are for gatsby-remark-autolink-headers:
+    "a.anchor": {
+      boxShadow: "none",
+    },
+    'a.anchor svg[aria-hidden="true"]': {
+      stroke: "var(--textLink)",
     },
   }
 }
