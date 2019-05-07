@@ -6,7 +6,7 @@ description: "What I learned deploying my first full stack app."
 
 ## What I Did This Week
 
-After deploying my Flashcards [app](mountfluency.com) last week, I tied up some loose ends with my server configuration and fixed some bugs on the front end. I also started sketching out and coding a basic prototype for my next project, a website to help you find the best coffee shops and roasters in your area.
+After deploying my Flashcards [app](https://mountfluency.com) last week, I tied up some loose ends with my server configuration and fixed some bugs on the front end. I also started sketching out and coding a basic prototype for my next project, a website to help you find the best coffee shops and roasters in your area.
 
 ## What I Learned
 
@@ -16,7 +16,7 @@ After deploying my Flashcards [app](mountfluency.com) last week, I tied up some 
 
 - Basic Jest testing
 
-- How to use [Figma](figma.com) to make a mockup of a website
+- How to use [Figma](https://figma.com) to make a mockup of a website
 
 - The `cover` CSS image property
 
