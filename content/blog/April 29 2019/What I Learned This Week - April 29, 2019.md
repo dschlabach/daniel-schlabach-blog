@@ -1,7 +1,7 @@
 ---
 title: What I Learned This Week - April 29, 2019
 date: "2019-05-07T01:45:14+00:00"
-description: "What I learned deploying my first full stack app."
+description: "COnfiguring my server and starting a new project."
 ---
 
 ## What I Did This Week
